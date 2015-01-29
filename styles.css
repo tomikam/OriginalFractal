@@ -1,5 +1,5 @@
 body {
-    background-color: /*rgb(200,200,200)*/ black;
+    background-color: black;
     color: orange;
     font-family: "Open Sans", sans-serif;
     text-align: center;
@@ -12,8 +12,7 @@ body {
 }
 
 header {
-	font-color: orange;
-	font-family: Verdana, sans-serif;
+	
 
 }
 
