@@ -10,7 +10,7 @@ public void draw() {
 	background(0);
 	translate(xPos, yPos, zoomMod);
 	fractal(60, 100, 15000);
-	System.out.println("X: " + xPos + "Y: " + yPos + "Zoom: " + zoomMod);
+	//System.out.println("X: " + xPos + "Y: " + yPos + "Zoom: " + zoomMod);
 }
 public void fractal(int x, int y, int len) {
 	fill(255, 165, 0);
